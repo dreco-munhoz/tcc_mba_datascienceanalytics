@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambiente local
+.env
+venv/
+.venv/
+
+# Saídas muito grandes
+*.zip
+*.gz
+
+# Modelos grandes
+*.joblib
+*.pkl
+
+# Bases privadas completas
+entrada/*.csv
+saida_integracao/bases/
+saida_tcc_comparativos/bases/
+
+# Logs locais
+*.log
+status_processamento.json
+log_processamento.csv

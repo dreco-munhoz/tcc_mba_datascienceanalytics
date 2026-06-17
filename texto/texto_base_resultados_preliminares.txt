@@ -1,0 +1,11 @@
+Texto-base dos resultados preliminares
+
+A base analítica foi organizada em nível de item e incluiu número de propostas, valor cotado, valor homologado, resultado final, critérios de exclusividade ME/EPP, regionalidade, localidade, modalidade, UF, município, tipo de lance, descrição dos itens e referência interna de preço por itens semelhantes.
+
+Foram identificados 1,046,748 itens, dos quais 952,838 apresentaram desfecho elegível para a modelagem principal. O insucesso principal, definido como item deserto ou fracassado, ocorreu em 79,068 itens, com taxa de 8.30% entre os itens elegíveis.
+
+Nesta versão, RESULTADO FINAL foi classificado como sucesso, junto com HOMOLOGADO e ADJUDICADO. A baixa competitividade foi mantida como indicador complementar, mensurada por itens com uma ou duas propostas. A quantidade de propostas foi tratada como variável descritiva e diagnóstica, não como explicação causal do deserto, pois a condição de deserto já implica ausência de propostas.
+
+A análise de preço passou a comparar o valor cotado do item com a mediana de valor homologado de itens semelhantes bem-sucedidos. Essa referência foi calculada prioritariamente por descrição normalizada e, quando não houve quantidade mínima de homologações equivalentes, por família textual gerada por TF-IDF e agrupamento. Foram geradas classificações para itens com valor cotado abaixo, próximo ou acima da referência interna.
+
+Foram aplicadas técnicas de aprendizado de máquina em duas abordagens: modelo pré-disputa, sem variáveis posteriores ao certame, e modelo diagnóstico final, com número de propostas, valor homologado e métricas de preço. Os resultados devem ser interpretados como associações estatísticas e operacionais, não como causalidade direta.
