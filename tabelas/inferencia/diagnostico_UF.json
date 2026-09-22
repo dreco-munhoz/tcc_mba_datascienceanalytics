@@ -1,0 +1,22 @@
+{
+  "modelo": "Logit_UF",
+  "n": 949329,
+  "eventos": 78942,
+  "prevalencia": 0.08315557620171721,
+  "processos": 33181,
+  "parametros": 62,
+  "convergiu": true,
+  "iteracoes": 9,
+  "log_verossimilhanca": -260559.45811169126,
+  "aic": 521242.9162233825,
+  "bic": 521972.2538866727,
+  "pseudo_r2_mcfadden": 0.041697491178172674,
+  "max_score_por_observacao": 5.926379917438925e-17,
+  "menor_autovalor_informacao": 0.8990349104140973,
+  "condicao_matriz_correlacao": 490.2382288210167,
+  "probabilidade_min": 0.0017488173917701985,
+  "probabilidade_max": 0.9712886686131107,
+  "maior_beta_absoluto": 2.9823372236335826,
+  "covariancia": "cluster por idProcess, correcao finita, testes z/Wald assintoticos",
+  "avisos": []
+}

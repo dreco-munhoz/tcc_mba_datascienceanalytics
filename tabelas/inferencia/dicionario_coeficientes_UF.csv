@@ -1,0 +1,63 @@
+﻿termo;variavel;categoria;referencia;unidade;escala_numerica;centro;imputados;mediana_imputacao
+const;Intercepto;;;"intercepto; numericas centradas";1.0;0.0;0;
+valor_cotado_log;valor_cotado_log;;;log(1 + valor cotado);1.0;3.5901418168741475;16;3.260401571696699
+descricao_tam_caracteres;descricao_tam_caracteres;;;100 caracteres adicionais;100.0;152.0835210975331;0;66.0
+descricao_qtd_palavras;descricao_qtd_palavras;;;10 palavras adicionais;10.0;23.265825651591808;0;11.0
+qtd_itens_lote;qtd_itens_lote;;;10 itens adicionais no lote;10.0;29.01359275867481;0;1.0
+InfoReq;InfoReq;;;exigencia de informacao: 1 versus 0;1.0;0.02287510441585583;0;0.0
+ArqReq;ArqReq;;;exigencia de arquivo: 1 versus 0;1.0;0.021237105366000618;0;0.0
+UF[AC];UF;AC;SP;categoria versus referencia;1.0;0.0;0;
+UF[AM];UF;AM;SP;categoria versus referencia;1.0;0.0;0;
+UF[BA];UF;BA;SP;categoria versus referencia;1.0;0.0;0;
+UF[CE];UF;CE;SP;categoria versus referencia;1.0;0.0;0;
+UF[DF];UF;DF;SP;categoria versus referencia;1.0;0.0;0;
+UF[ES];UF;ES;SP;categoria versus referencia;1.0;0.0;0;
+UF[GO];UF;GO;SP;categoria versus referencia;1.0;0.0;0;
+UF[MA];UF;MA;SP;categoria versus referencia;1.0;0.0;0;
+UF[MG];UF;MG;SP;categoria versus referencia;1.0;0.0;0;
+UF[MS];UF;MS;SP;categoria versus referencia;1.0;0.0;0;
+UF[MT];UF;MT;SP;categoria versus referencia;1.0;0.0;0;
+UF[PA];UF;PA;SP;categoria versus referencia;1.0;0.0;0;
+UF[PB];UF;PB;SP;categoria versus referencia;1.0;0.0;0;
+UF[PE];UF;PE;SP;categoria versus referencia;1.0;0.0;0;
+UF[PI];UF;PI;SP;categoria versus referencia;1.0;0.0;0;
+UF[PR];UF;PR;SP;categoria versus referencia;1.0;0.0;0;
+UF[RJ];UF;RJ;SP;categoria versus referencia;1.0;0.0;0;
+UF[RN];UF;RN;SP;categoria versus referencia;1.0;0.0;0;
+UF[RO];UF;RO;SP;categoria versus referencia;1.0;0.0;0;
+UF[RS];UF;RS;SP;categoria versus referencia;1.0;0.0;0;
+UF[SC];UF;SC;SP;categoria versus referencia;1.0;0.0;0;
+UF[SE];UF;SE;SP;categoria versus referencia;1.0;0.0;0;
+UF[TO];UF;TO;SP;categoria versus referencia;1.0;0.0;0;
+Modalidade[CONCORRÊNCIA ELETRÔNICA];Modalidade;CONCORRÊNCIA ELETRÔNICA;PREGÃO ELETRÔNICO;categoria versus referencia;1.0;0.0;0;
+Modalidade[CREDENCIAMENTO];Modalidade;CREDENCIAMENTO;PREGÃO ELETRÔNICO;categoria versus referencia;1.0;0.0;0;
+Modalidade[DISPENSA ELETRÔNICA];Modalidade;DISPENSA ELETRÔNICA;PREGÃO ELETRÔNICO;categoria versus referencia;1.0;0.0;0;
+Modalidade[LEILÃO ELETRÔNICO];Modalidade;LEILÃO ELETRÔNICO;PREGÃO ELETRÔNICO;categoria versus referencia;1.0;0.0;0;
+Modalidade[LICITAÇÃO 13.303];Modalidade;LICITAÇÃO 13.303;PREGÃO ELETRÔNICO;categoria versus referencia;1.0;0.0;0;
+Modalidade[SELEÇÃO PÚBLICA];Modalidade;SELEÇÃO PÚBLICA;PREGÃO ELETRÔNICO;categoria versus referencia;1.0;0.0;0;
+TipoDisputa[MAIOR DESCONTO];TipoDisputa;MAIOR DESCONTO;MENOR LANCE;categoria versus referencia;1.0;0.0;0;
+TipoDisputa[MAIOR LANCE];TipoDisputa;MAIOR LANCE;MENOR LANCE;categoria versus referencia;1.0;0.0;0;
+TipoDisputa[MELHOR TÉCNICA];TipoDisputa;MELHOR TÉCNICA;MENOR LANCE;categoria versus referencia;1.0;0.0;0;
+TipoDisputa[MELHOR TÉCNICA E PREÇO];TipoDisputa;MELHOR TÉCNICA E PREÇO;MENOR LANCE;categoria versus referencia;1.0;0.0;0;
+TipoEncerramento[ABERTO E FECHADO];TipoEncerramento;ABERTO E FECHADO;ABERTO;categoria versus referencia;1.0;0.0;0;
+TipoEncerramento[FECHADO];TipoEncerramento;FECHADO;ABERTO;categoria versus referencia;1.0;0.0;0;
+TipoEncerramento[FECHADO E ABERTO];TipoEncerramento;FECHADO E ABERTO;ABERTO;categoria versus referencia;1.0;0.0;0;
+TipoLance[GLOBAL];TipoLance;GLOBAL;UNITÁRIO;categoria versus referencia;1.0;0.0;0;
+TipoLance[KIT];TipoLance;KIT;UNITÁRIO;categoria versus referencia;1.0;0.0;0;
+tipo_lote_calc[Lote global];tipo_lote_calc;Lote global;Lote unitário;categoria versus referencia;1.0;0.0;0;
+tipo_lote_calc[Lote global/kit];tipo_lote_calc;Lote global/kit;Lote unitário;categoria versus referencia;1.0;0.0;0;
+grupo_exclusividade_regionalidade[ME_EPP_E_REGIONAL_LOCAL];grupo_exclusividade_regionalidade;ME_EPP_E_REGIONAL_LOCAL;SEM_CRITERIO;categoria versus referencia;1.0;0.0;0;
+grupo_exclusividade_regionalidade[SOMENTE_ME_EPP];grupo_exclusividade_regionalidade;SOMENTE_ME_EPP;SEM_CRITERIO;categoria versus referencia;1.0;0.0;0;
+grupo_exclusividade_regionalidade[SOMENTE_REGIONAL_LOCAL];grupo_exclusividade_regionalidade;SOMENTE_REGIONAL_LOCAL;SEM_CRITERIO;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIAS_RARAS_MENOS_100];familia_textual_ml;FAMILIAS_RARAS_MENOS_100;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_02];familia_textual_ml;FAMILIA_02;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_05];familia_textual_ml;FAMILIA_05;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_07];familia_textual_ml;FAMILIA_07;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_09];familia_textual_ml;FAMILIA_09;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_10];familia_textual_ml;FAMILIA_10;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_12];familia_textual_ml;FAMILIA_12;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_14];familia_textual_ml;FAMILIA_14;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_16];familia_textual_ml;FAMILIA_16;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_17];familia_textual_ml;FAMILIA_17;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_18];familia_textual_ml;FAMILIA_18;FAMILIA_13;categoria versus referencia;1.0;0.0;0;
+familia_textual_ml[FAMILIA_19];familia_textual_ml;FAMILIA_19;FAMILIA_13;categoria versus referencia;1.0;0.0;0;

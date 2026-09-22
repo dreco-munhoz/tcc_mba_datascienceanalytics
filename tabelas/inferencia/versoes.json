@@ -1,0 +1,9 @@
+{
+  "python": "3.11.3",
+  "numpy": "1.26.4",
+  "pandas": "2.2.2",
+  "scipy": "1.13.0",
+  "statsmodels": "0.14.2",
+  "sklearn": "1.4.2",
+  "script_sha256": "691fc73f0ca693ef8b3ada633f35717b40d7c2db4996bf2ad66cfd68517c804f"
+}

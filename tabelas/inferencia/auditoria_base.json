@@ -1,0 +1,22 @@
+{
+  "itens_base_completa": 1046748,
+  "processos_identificados_base_completa": 36383,
+  "processos_duplicados_removidos_regra_legada": 0,
+  "linhas_lotes_sem_itens_ignoradas": 4178,
+  "itens_elegiveis": 952838,
+  "insucessos_elegiveis": 79068,
+  "status_elegiveis": {
+    "HOMOLOGADO": 857616,
+    "FRACASSADO": 54535,
+    "DESERTO": 24533,
+    "ADJUDICADO": 15767,
+    "RESULTADO FINAL": 387
+  },
+  "excluidos_sem_processo": 3509,
+  "insucessos_excluidos_sem_processo": 126,
+  "valores_cotados_negativos_tratados_como_zero": 1,
+  "itens_modelo": 949329,
+  "insucessos_modelo": 78942,
+  "processos_modelo": 33181,
+  "lotes_modelo": 662198
+}

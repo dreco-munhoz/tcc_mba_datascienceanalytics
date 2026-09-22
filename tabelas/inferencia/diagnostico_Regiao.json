@@ -1,0 +1,22 @@
+{
+  "modelo": "Logit_Regiao",
+  "n": 949329,
+  "eventos": 78942,
+  "prevalencia": 0.08315557620171721,
+  "processos": 33181,
+  "parametros": 43,
+  "convergiu": true,
+  "iteracoes": 8,
+  "log_verossimilhanca": -263737.6872010719,
+  "aic": 527561.3744021438,
+  "bic": 528067.2053621676,
+  "pseudo_r2_mcfadden": 0.0300083936799026,
+  "max_score_por_observacao": 7.444827827783388e-17,
+  "menor_autovalor_informacao": 4.280094947443181,
+  "condicao_matriz_correlacao": 483.34308069380387,
+  "probabilidade_min": 0.0025093898359958788,
+  "probabilidade_max": 0.9189982342106651,
+  "maior_beta_absoluto": 2.320532780399589,
+  "covariancia": "cluster por idProcess, correcao finita, testes z/Wald assintoticos",
+  "avisos": []
+}

@@ -20,6 +20,26 @@ entrada/*.csv
 saida_integracao/bases/
 saida_tcc_comparativos/bases/
 
+# Entradas e saidas locais: publicar apenas agregados revisados em tabelas/.
+/entrada/
+/resultados_inferencia/
+/saida_integracao/
+/saida_tcc_comparativos/
+/saida_tcc_resultados/
+base_inferencia_privada*
+
+# Gerador local de relatorio/ZIP para revisao do texto; nao integra a analise final.
+/codigo/04_relatorio_inferencia.py
+
+# Documentos de trabalho, temporarios e caches.
+*.docx
+~$*
+*.tmp
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pickle
+
 # Logs locais
 *.log
 status_processamento.json
